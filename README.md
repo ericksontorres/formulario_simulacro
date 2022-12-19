@@ -1,4 +1,6 @@
-# formulario_simulacro
+# Formulario de Registros - Simulacro 4F
+
+Formulario utilizado para registrar a todos los interesados en participar en el simulacro 4F del año 2022.
 
 ## Project setup
 ```
