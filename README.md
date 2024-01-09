@@ -1,4 +1,4 @@
-# Formulario de Registros - Simulacro 4F
+# Formulario de Registros - Macro Simulacro
 
 Formulario utilizado para registrar a todos los interesados en participar en el simulacro 4F del año 2022.
 
